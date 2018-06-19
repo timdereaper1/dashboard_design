@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../sass/design_modules/core/reset/_reset.sass","../sass/design_modules/build/layout/_container.sass","../sass/design_modules/core/mixins/_responsive.sass"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;EACA;;;AAEJ;EACI;;;ACNJ;EACI;EACA;EACA;;ACDA;EDFJ;IAMQ;;;ACMJ;EDZJ;IASQ","file":"design.css"}

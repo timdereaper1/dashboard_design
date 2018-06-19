@@ -1,0 +1,28 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 95%;
+  box-sizing: border-box;
+  margin: auto;
+}
+@media (min-width: 41rem) {
+  .container {
+    max-width: 85%;
+  }
+}
+@media (min-width: 62rem) {
+  .container {
+    max-width: 80%;
+  }
+}
+
+/*# sourceMappingURL=css/design.css.map */
